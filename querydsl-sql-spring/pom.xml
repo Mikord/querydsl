@@ -11,6 +11,7 @@
 
   <groupId>com.querydsl</groupId>
   <artifactId>querydsl-sql-spring</artifactId>
+  <version>4.1.1.cg-1</version>
   <name>Querydsl - SQL Spring support</name>
   <description>SQL Spring support for Querydsl</description>
 
@@ -23,7 +24,7 @@
     <dependency>
       <groupId>com.querydsl</groupId>
       <artifactId>querydsl-sql</artifactId>
-      <version>${project.version}</version>
+      <version>4.1.1</version>
     </dependency>
 
     <dependency>
